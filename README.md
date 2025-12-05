@@ -1,4 +1,4 @@
-# Hi there, I'm Anthony Frade! 👋
+# Hi there, I'm Anthony! 👋
 
 ### 🚀 About Me
 🎓 **BSc in engineering and game development** at the Polytechnic University of Cávado and Ave (IPCA).
