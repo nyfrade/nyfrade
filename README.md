@@ -3,19 +3,20 @@
 ### 🚀 About Me
 🎓 **BSc in engineering and game development** at the Polytechnic University of Cávado and Ave (IPCA).
 
-💡 **Creative Engineer & Tech Enthusiast**
+💡 **Creative engineer & tech enthusiast**
 I am passionate about bridging the gap between technical engineering and creative design. My goal is to build immersive systems and robust software solutions.
 
-🔭 **Areas of Interest:**
+🔭 **Areas of interest:**
 * 🎮 Game Development
 * 🌐 Web Development
 * 📱 Mobile Development
+* 📊 Data Engineering
 
 ---
 
-### 💻 Languages & Tools
+### 💻 Languages & tools
 
-**Languages & Frameworks**
+**Languages & frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -29,7 +30,7 @@ I am passionate about bridging the gap between technical engineering and creativ
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**Tools & Platforms**
+**Tools & platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -50,7 +51,7 @@ I am passionate about bridging the gap between technical engineering and creativ
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with me
 <p align="left">
 <a href="www.linkedin.com/in/anthony-frade" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nyfrade@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
