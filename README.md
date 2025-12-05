@@ -54,5 +54,5 @@ I am passionate about bridging the gap between technical engineering and creativ
 ### 🌐 Connect with me
 <p align="left">
 <a href="www.linkedin.com/in/nyfrade" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nyfrade@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:nyfrade@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
