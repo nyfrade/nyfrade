@@ -10,7 +10,6 @@ I am passionate about bridging the gap between technical engineering and creativ
 * 🎮 Game Development
 * 🌐 Web Development
 * 📱 Mobile Development
-* 📊 Data Engineering
 
 ---
 
