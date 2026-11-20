@@ -1,4 +1,4 @@
-W<h1 align="center">Anthony Frade</h1>
+<h1 align="center">Anthony Frade</h1>
 <p align="center">
   <strong>Building things with code for the web, mobile, and interactive worlds.</strong>
 </p>
