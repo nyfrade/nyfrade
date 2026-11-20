@@ -1,135 +1,97 @@
-<h1 align="center">Hi, I'm Anthony Frade</h1>
-<h3 align="center">Software Development Student | Web & Mobile Development | AI</h3>
+<h1 align="center">Anthony Frade</h1>
+<p align="center">
+  <strong>Building things with code — for the web, mobile, and interactive worlds.</strong>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nyfrade">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:nyfrade@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/nyfrade">
-    <img src="https://img.shields.io/badge/GitHub-nyfrade-181717?style=flat&logo=github" alt="GitHub">
-  </a>
+  <a href="https://github.com/nyfrade">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/nyfrade">LinkedIn</a> ·
+  <a href="mailto:nyfrade@hotmail.com">Email</a>
 </p>
 
 ---
 
-## About
+Hey! I'm Anthony, an Engineering and Digital Game Development student at **IPCA, Portugal**.
 
-I'm a third-year **BSc student in Engineering and Digital Game Development at the Polytechnic Institute of Cávado and Ave (IPCA)**, Portugal, with a growing focus on software engineering and application development.
+This is my corner of GitHub: a collection of projects, experiments, coursework, and things I've enjoyed building. I like taking an idea from a rough concept to something people can actually use — whether that's a web application, an Android app, or an interactive experience.
 
-I enjoy designing and building software that brings together clear architecture, practical functionality, and a good user experience. Through academic and personal projects, I've gained hands-on experience with web applications, Android development, C# software, and computer vision.
+I'm especially curious about **AI, web development, and mobile development**. Further down the road, I'd like to explore software architecture and security in more depth, potentially through a master's in **Software Engineering or Cybersecurity**.
 
-I'm currently looking for a **curricular internship in software development**, where I can contribute to a development team, strengthen my engineering skills, and learn from real-world projects.
+## A few things I've built
 
-After completing my bachelor's degree, I intend to pursue a **master's degree in Software Engineering or Cybersecurity**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nyfrade/Lumina-dental">LuminaDental</a></h3>
+      <sub>React · JavaScript · CSS</sub>
+      <p>A dental-clinic appointment management prototype with a staff dashboard, calendar views, and a patient-facing booking flow. A project focused on turning a real-world workflow into a clear web experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nyfrade/CafeManager">CafeManager</a></h3>
+      <sub>Kotlin · Jetpack Compose · Firebase</sub>
+      <p>An Android café simulation where players prepare customer orders against the clock. Includes reactive game state, authentication, player profiles, and score persistence.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nyfrade/Computer-Vision">Computer Vision</a></h3>
+      <sub>Python · OpenCV · NumPy · Pygame</sub>
+      <p>Experiments with webcam-based game control. The implemented pipeline uses HSV colour segmentation, contour detection, and centroid tracking to translate camera input into game actions.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nyfrade/LostTwins">LostTwins</a></h3>
+      <sub>React · Phaser · JavaScript · Supabase</sub>
+      <p>A story-driven 2D browser game. React handles the surrounding application while Phaser runs the game, with levels, enemies, NPC interactions, puzzles, authentication, and a leaderboard.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nyfrade/LittleCastaway">Little Castaway</a></h3>
+      <sub>Unity · C# · NavMesh AI</sub>
+      <p>A low-poly first-person survival game made with a teammate. Built around resource management, crafting, animal behaviours, domestication, weather, and environmental storytelling.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nyfrade/BulletStorm">BulletStorm</a></h3>
+      <sub>C# · MonoGame · .NET 8</sub>
+      <p>A top-down action game featuring enemy behaviour, weapon systems, player upgrades, multiple gameplay phases, and local score persistence.</p>
+    </td>
+  </tr>
+</table>
 
-## Areas of Interest
+<details>
+  <summary><strong>More experiments and coursework</strong></summary>
+  <br>
+  - <a href="https://github.com/nyfrade/Mobile-Platforms">Mobile Platforms</a> — a collection of Android projects exploring Kotlin, Compose, APIs, Firebase, Room, and a custom 2D game loop.
+  - <a href="https://github.com/nyfrade/Web-Development">Web Development</a> — smaller exercises with HTML, CSS, JavaScript, and React.
+  - <a href="https://github.com/nyfrade/OOP">Object-Oriented Programming</a> — a C#/.NET online-store management project.
+</details>
 
-- **Artificial Intelligence & Computer Vision** — intelligent systems, image processing, object detection, and practical AI applications.
-- **Web Development** — full-stack applications, frontend engineering, APIs, and maintainable web architectures.
-- **Mobile Development** — Android applications, Kotlin, UI development, and data-driven mobile experiences.
-- **Software Engineering & Cybersecurity** — reliable software design, secure development practices, and system architecture.
+## What I'm exploring
 
-## Selected Projects
+- **AI & Computer Vision** — image processing, object detection, and ways to make software respond intelligently to its environment.
+- **Web Development** — useful interfaces, full-stack applications, APIs, and maintainable application structure.
+- **Mobile Development** — Android apps, Kotlin, and thoughtful mobile experiences.
+- **Software Engineering & Cybersecurity** — building systems that are well-structured, dependable, and secure.
 
-### [LostTwins](https://github.com/nyfrade/LostTwins)
-**React · Phaser · JavaScript · Supabase**
-
-A browser-based 2D platform game developed collaboratively. The project combines a React application layer with a Phaser game runtime, including game scenes, player and enemy systems, NPC interactions, combat, a puzzle minigame, authentication, and a leaderboard.
-
-### [CafeManager](https://github.com/nyfrade/CafeManager)
-**Kotlin · Android · Jetpack Compose · Firebase · MVVM**
-
-An Android café-management simulation game. Players prepare customer orders against a timer while progressing through levels. The application includes authentication, player profiles, score persistence, reactive UI state, and local preferences.
-
-### [LuminaDental](https://github.com/nyfrade/Lumina-dental)
-**React · JavaScript · CSS · Framer Motion**
-
-A dental-clinic appointment management prototype with separate staff and patient workflows. It explores calendar-based appointment management, search and filtering, scheduling, and responsive interfaces. The current version is a frontend prototype using mock data and browser local storage.
-
-### [Computer Vision — Game Interaction Projects](https://github.com/nyfrade/Computer-Vision)
-**Python · OpenCV · NumPy · Pygame · YOLOv8 (report)**
-
-Academic projects exploring webcam-based game interaction. The implemented colour-segmentation work uses HSV thresholding, contour detection, and centroid tracking to translate visual input into game controls. The accompanying second project report explores YOLOv8 and the Circular Hough Transform.
-
-### [Mobile Platforms](https://github.com/nyfrade/Mobile-Platforms)
-**Kotlin · Android · Jetpack Compose · OkHttp · Firebase · Room**
-
-A collection of Android coursework projects, including a calculator, a dog-breed browser using a public API, two iterations of a 2D fruit-catching game, and PawPedia with local favourites storage.
-
-### [Little Castaway](https://github.com/nyfrade/LittleCastaway)
-**Unity · C# · NavMesh AI · ScriptableObjects**
-
-A low-poly, first-person survival game developed in a team. Features include resource management, crafting, animal AI and domestication, a day/night cycle, dynamic weather, inventory systems, and environmental storytelling.
-
-### [BulletStorm](https://github.com/nyfrade/BulletStorm)
-**C# · MonoGame · .NET 8**
-
-A top-down roguelike action game featuring enemy behaviour, weapon systems, player upgrades, multiple gameplay phases, and local score persistence.
-
-## Technical Skills
-
-**Programming languages**
+## Tools that show up in my projects
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C Sharp">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
-</p>
-
-**Web & mobile**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
-</p>
-
-**AI, tools & platforms**
-
-<p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" alt="Visual Studio">
 </p>
-
-## Experience
-
-**Software Engineering Intern — INESC TEC, HumanISE**  
-*June – July 2026 · Vila Real, Portugal*
-
-- Worked with Unity and C# on game user-interface improvements.
-- Contributed to player telemetry and behaviour-tracking systems.
-- Collaborated with a research team in an applied development environment.
-
-## Education
-
-**BSc in Engineering and Digital Game Development**  
-Polytechnic Institute of Cávado and Ave (IPCA) · Portugal  
-Third year
-
-**Future academic interests:** MSc in Software Engineering or Cybersecurity.
-
-## Languages
-
-- Portuguese — Native
-- English — Advanced
-- Spanish — Conversational
 
 ---
 
+I'm currently looking for a **curricular internship in software development** and would love to contribute to a team, learn from experienced developers, and keep building.
+
 <p align="center">
-  <i>Always learning, building, and looking for opportunities to grow as a software developer.</i>
+  <a href="https://www.linkedin.com/in/nyfrade">Say hello on LinkedIn</a> ·
+  <a href="mailto:nyfrade@hotmail.com">Drop me an email</a>
 </p>
