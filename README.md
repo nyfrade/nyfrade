@@ -11,7 +11,7 @@
 
 ---
 
-Hey! I'm Anthony, an Engineering and Digital Game Development student at **IPCA, Portugal**.
+Hey! I'm Anthony, an Engineering and Digital Game Development student at **UPCA, Portugal**.
 
 This is my corner of GitHub: a collection of projects, experiments, coursework, and things I've enjoyed building. I like taking an idea from a rough concept to something people can actually use — whether that's a web application, an Android app, or an interactive experience.
 
