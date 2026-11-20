@@ -1,4 +1,4 @@
-<h1 align="center">Anthony Frade</h1>
+W<h1 align="center">Anthony Frade</h1>
 <p align="center">
   <strong>Building things with code — for the web, mobile, and interactive worlds.</strong>
 </p>
@@ -13,7 +13,7 @@
 
 Hey! I'm Anthony, an Engineering and Digital Game Development student at **UPCA, Portugal**.
 
-This is my corner of GitHub: a collection of projects, experiments, coursework, and things I've enjoyed building. I like taking an idea from a rough concept to something people can actually use — whether that's a web application, an Android app, or an interactive experience.
+This is my corner of GitHub: a collection of projects, experiments, coursework, and things I've enjoyed building. I like taking an idea from a rough concept to something people can actually use, whether that's a web application, an Android app, or an interactive experience.
 
 I'm especially curious about **AI, web development, and mobile development**. Further down the road, I'd like to explore software architecture and security in more depth, potentially through a master's in **Software Engineering or Cybersecurity**.
 
